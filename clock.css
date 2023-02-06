@@ -1,0 +1,16 @@
+#binary{
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+#time{
+  font-size: 4rem;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+#button,#binary{
+  margin-left: 4rem;
+}
